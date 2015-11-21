@@ -1,0 +1,32 @@
+{
+  "name": "koa-co-example",
+  "version": "1.0.0",
+  "description": "koa-co-example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dapeng zhangdapeng89@126.com",
+  "license": "MIT",
+  "dependencies": {
+    "co": "^4.6.0",
+    "koa": "^1.1.2",
+    "koa-convert": "^1.2.0",
+    "koa-router": "^5.2.3",
+    "urllib": "^2.5.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangda89/koa-co-example.git"
+  },
+  "keywords": [
+    "koa",
+    "co",
+    "example"
+  ],
+  "bugs": {
+    "url": "https://github.com/zhangda89/koa-co-example/issues"
+  },
+  "homepage": "https://github.com/zhangda89/koa-co-example#readme"
+}
